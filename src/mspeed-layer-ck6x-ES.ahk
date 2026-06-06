@@ -2,8 +2,8 @@
 ; ########################################################
 ; # mspeed-layer-ck6x - MotoSpeed Layer for CK61 & CK62  #
 ; #                                                      #
-; # Author: asdo92                                       #
-; # Contact: asdo92@duck.com                             #
+; # Author: dmesg00                                       #
+; # Contact: dmesg00@duck.com                             #
 ; # License: GPL v2.0                                    #
 ; ########################################################
 ; Version v1.1
